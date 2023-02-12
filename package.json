@@ -1,0 +1,23 @@
+{
+  "name": "vscode-settings-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simiraaaa/vscode-settings-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simiraaaa/vscode-settings-manager/issues"
+  },
+  "homepage": "https://github.com/simiraaaa/vscode-settings-manager#readme",
+  "dependencies": {
+    "husky": "^8.0.3"
+  }
+}
