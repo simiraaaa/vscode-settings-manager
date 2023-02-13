@@ -20,3 +20,8 @@
 設定IDはカンマ区切りで複数指定可能です。
 
 
+## コミットするファイル
+
+`.husky`, `.vscode-settings-manager` はコミットしてください。
+
+`.vscode/settings.json` は `.gitignore` に追加してください。
