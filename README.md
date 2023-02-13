@@ -19,6 +19,20 @@
 
 設定IDはカンマ区切りで複数指定可能です。
 
+### ワイルドカード
+
+全ての設定を管理
+`npm run vsm:add "*"`
+
+xxx. から始まる設定を全て管理
+`npm run vsm:add "xxx.*"`
+
+## 設定の削除
+
+`npm run vsm:remove 設定のID`
+
+`npm run vsm:add` で追加した設定を削除できます。
+
 
 ## コミットするファイル
 
