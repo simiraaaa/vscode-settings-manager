@@ -6,7 +6,7 @@
 
 `yarn add --dev https://github.com/simiraaaa/vscode-settings-manager`
 
-`$(npm bin)/vscode-settings-manager setup`
+`npx vscode-settings-manager setup`
 
 設定を追加すると `commit` 時に `.vscode/settings.json` から管理用のjsonに書き込まれてコミットされます。
 また、 `checkout` 時、 `pull` 時には、管理用のjsonから `.vscode/settings.json` にマージされます。
